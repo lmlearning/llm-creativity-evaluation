@@ -1,4 +1,4 @@
-# Creative Impact of Language Models
+# LLM Creativity and Reasoning Evaluation
 
 This repository contains code to evaluate the "creative impact" of language models across a variety of tasks. The framework is designed to be extensible to new models, datasets, and evaluation metrics.
 
